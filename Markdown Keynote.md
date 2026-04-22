@@ -4,7 +4,7 @@ Mark Down (MD) is a lightweight markup language that you can use to add formatti
 
 ---
 ## Table of Contents
-
+[UP to here](#up-to)
 
 ---
 
@@ -21,6 +21,17 @@ Mark Down (MD) is a lightweight markup language that you can use to add formatti
 * Obsidian: https://obsidian.md/
 * VS Code: https://code.visualstudio.com/
 
+---
+## UP to
+
+---
+<details>
+<summary>접기/펼치기</summary>
+접은 내용
+</details>
+
+> [!info]- 팁: 클릭하여 펼치기
+> 접히는 내용입니다.
 
 
 ---
