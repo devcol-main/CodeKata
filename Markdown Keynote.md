@@ -4,7 +4,7 @@ Mark Down (MD) is a lightweight markup language that you can use to add formatti
 
 ---
 ## Table of Contents
-[UP to here](#up-to)
+[UP to](#up-to)
 
 ---
 
