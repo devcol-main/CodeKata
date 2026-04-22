@@ -3,8 +3,15 @@
 About Code Kata
 
 
+>* LeatCode: https://leetcode.com/
+>* HackerRank: https://www.hackerrank.com/
+
+
 ---
 
-### In Korean:
+### 
 
->(코드 문제 링크) 프로그래머스 
+코드카타란
+
+>(코드 문제뱅크 사이트) 프로그래머스:  https://programmers.co.kr/
+
