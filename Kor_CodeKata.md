@@ -17,7 +17,7 @@
 
 * [004.나이 출력](https://github.com/devcol-main/CodeKata/blob/a37ad88b1c8a3e8427dc9041111af822d87603fc/Programmers/004.%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5.md) | Solved Date: 2026-04-23-Thur | [Problem Link]( https://school.programmers.co.kr/learn/courses/30/lessons/120820)
 
-* [005.숫자 비교하기]() | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120807)
+* [005.숫자 비교하기](https://github.com/devcol-main/CodeKata/blob/cf4a4f75d15dba21bbc0781e68e3f7bf98c3de4a/Programmers/005.%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120807)
 
 ---
 
