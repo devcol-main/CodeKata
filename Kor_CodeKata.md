@@ -21,10 +21,12 @@
 
 * [006.두 수의 합 구하기](https://github.com/devcol-main/CodeKata/blob/5e29ac55c7e3cd2eb0c6f46c719e1bf62977d00e/Programmers/006.%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 
-* [007.두 수의 나눗셈](https://github.com/devcol-main/CodeKata/blob/29a37ddca2e032008fd6017c5956caea9e61155a/Programmers/007.%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88.md)  | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
+* [007.두 수의 나눗셈](https://github.com/devcol-main/CodeKata/blob/29a37ddca2e032008fd6017c5956caea9e61155a/Programmers/007.%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88.md)  | Solved Date: 2026-04-24-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120806)
 
 
-* [008.각도기]() | Solved Date: 2026-04-24-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
+* [008.각도기](https://github.com/devcol-main/CodeKata/blob/f42e275d0da5772b9398e780e42f0525542e5270/Programmers/008.%EA%B0%81%EB%8F%84%EA%B8%B0.md) | Solved Date: 2026-04-24-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
+
+* [009.짝수의 합]() | Solved Date: 2026-04-24-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120831#)
 ---
 
 
