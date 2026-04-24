@@ -19,7 +19,7 @@
 
 * [005.숫자 비교하기](https://github.com/devcol-main/CodeKata/blob/cf4a4f75d15dba21bbc0781e68e3f7bf98c3de4a/Programmers/005.%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120807)
 
-* [006.두 수의 합 구하기]() | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+* [006.두 수의 합 구하기](https://github.com/devcol-main/CodeKata/blob/5e29ac55c7e3cd2eb0c6f46c719e1bf62977d00e/Programmers/006.%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-23-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 
 
 ---
