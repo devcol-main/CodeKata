@@ -29,6 +29,8 @@
 * [008.각도기](https://github.com/devcol-main/CodeKata/blob/f42e275d0da5772b9398e780e42f0525542e5270/Programmers/008.%EA%B0%81%EB%8F%84%EA%B8%B0.md) | Solved Date: 2026-04-24-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120829)
 
 * [009.짝수의 합](https://github.com/devcol-main/CodeKata/blob/b3b8ba5bfc4a16c0e50812e10fea72b576b66e60/Programmers/009.%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9.md) | Solved Date: 2026-04-24-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120831#)
+
+* [010. 배열의 평균값] | Solved Date: 2026-04-25-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=cpp)
 ---
 
 
