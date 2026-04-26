@@ -30,7 +30,10 @@
 
 * [009.짝수의 합](https://github.com/devcol-main/CodeKata/blob/b3b8ba5bfc4a16c0e50812e10fea72b576b66e60/Programmers/009.%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9.md) | Solved Date: 2026-04-24-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120831#)
 
-* [010. 배열의 평균값] | Solved Date: 2026-04-25-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=cpp)
+* [010. 배열의 평균값](https://github.com/devcol-main/CodeKata/blob/d213d75151d952f0be33d54aa0fed66bd080ff40/Programmers/010.%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%8F%89%EA%B7%A0%EA%B0%92.md) | Solved Date: 2026-04-25-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=cpp)
+
+* [011. 짝수와 홀수](https://github.com/devcol-main/CodeKata/blob/50da653d683346e87b15208ea1de7215ecc71e40/Programmers/011.%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md) | Solved Date: 2026-04-26-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=cpp#)
+
 ---
 
 
