@@ -43,7 +43,7 @@
 * [012. 평균 구하기](https://github.com/devcol-main/CodeKata/blob/d2774a3216aead909b9e17e6b825de62fe14b40f/Programmers/012.%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-27-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 
 
-* [013. 자릿수 더하기] | Solved Date: 2026-04-28-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) 
+* [013. 자릿수 더하기](https://github.com/devcol-main/CodeKata/blob/535cb9f99a10de2ff81b7b0cd4e50910402e0cbb/Programmers/013.%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-28-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) 
 
 
 ---
