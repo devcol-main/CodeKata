@@ -3,7 +3,12 @@
 
 > (코드 문제뱅크 사이트) 프로그래머스: https://programmers.co.kr/
 
----
+<!--- 
+	As of 4/28
+	다시 풀어볼 문제들: 12,13 (개인적으로 문자열로도 구하는 법 생각해보기)
+	
+-->
+
 
 ## Table of Contents
 
@@ -35,7 +40,10 @@
 * [011. 짝수와 홀수](https://github.com/devcol-main/CodeKata/blob/50da653d683346e87b15208ea1de7215ecc71e40/Programmers/011.%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md) | Solved Date: 2026-04-26-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=cpp#)
 
 
-* [012.평균 구하기](https://github.com/devcol-main/CodeKata/blob/d2774a3216aead909b9e17e6b825de62fe14b40f/Programmers/012.%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-27-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
+* [012. 평균 구하기](https://github.com/devcol-main/CodeKata/blob/d2774a3216aead909b9e17e6b825de62fe14b40f/Programmers/012.%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-27-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
+
+
+* [013. 자릿수 더하기] | Solved Date: 2026-04-28-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) 
 
 
 ---
