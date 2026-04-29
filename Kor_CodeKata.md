@@ -45,7 +45,7 @@
 
 * [013. 자릿수 더하기](https://github.com/devcol-main/CodeKata/blob/535cb9f99a10de2ff81b7b0cd4e50910402e0cbb/Programmers/013.%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-28-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=cpp) 
 
-
+ * [014. 약수의합](https://github.com/devcol-main/CodeKata/blob/0a451827bfa4b6dc2dd560efdd6b627c38ac00db/Programmers/014.%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md) | Solved Date: 2026-04-29-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
 ---
 
 
