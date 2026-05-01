@@ -7,6 +7,9 @@
 	As of 4/28
 	다시 풀어볼 문제들: 12,13 (개인적으로 문자열로도 구하는 법 생각해보기)
 	
+	5/1
+	* 16, 17,
+	
 -->
 
 
@@ -50,6 +53,8 @@
 * [015. 나머지가 1이되는 수 찾기](https://github.com/devcol-main/CodeKata/blob/1b55dab6606fe33f9ba8f70bed1a4e296af28dc1/Programmers/015.%20%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.md) | Solved Date: 2026-04-29-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
 
 * [016. x만큼 간격이 있는 n개의 숫자](https://github.com/devcol-main/CodeKata/blob/bf91e3d90e4b51f252661407a7ebec89610c8c7a/Programmers/016.%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.md)| Solved Date: 2026-04-30-Thur |[Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12954)
----
+
+* [017. 자연수 뒤집어 배열로 만들기](https://github.com/devcol-main/CodeKata/blob/b60044e0f4772f649a9035f07d499ec30f6581f4/Programmers/017.%20%20%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-05-01-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+
 
 
