@@ -58,3 +58,15 @@ Problem order is based on the bootcamp's issued order.
 
 * [018. 문자열을 정수로 바꾸기](https://github.com/devcol-main/CodeKata/blob/4a39dea37150b141b17e3c97cd01066bcda326e6/Programmers/018.%20%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.md)| Solved Date: 2026-05-02-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12925)
 
+* [019. 정수 제곱근 판별](https://github.com/devcol-main/CodeKata/blob/cdf217d57256269abfec3ba8fc8da23ea898028c/Programmers/019.%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md) | Solved Date: 2026-05-03-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
+
+
+
+<!-- 
+* [020. 정수 내림차순으로 배치하기]
+* [021. 하샤드 수]
+* [022. 두 정수 사이의 합]
+* [023. 콜라츠 추측]
+* [024. 서울에서 김서방 찾기]
+* [025. 나누어 떨어지는 숫자]
+--> 
