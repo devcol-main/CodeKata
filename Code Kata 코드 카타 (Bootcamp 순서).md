@@ -61,11 +61,11 @@ Problem order is based on the bootcamp's issued order.
 * [019. 정수 제곱근 판별](https://github.com/devcol-main/CodeKata/blob/cdf217d57256269abfec3ba8fc8da23ea898028c/Programmers/019.%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md) | Solved Date: 2026-05-03-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12934)
 
 * [020. 정수 내림차순으로 배치하기](https://github.com/devcol-main/CodeKata/blob/79129e56d1cfe1be515fb79b810ead3ae173fec2/Programmers/020.%20%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-04-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
-* 
-<!-- 
-
 
 * [021. 하샤드 수](https://github.com/devcol-main/CodeKata/blob/4043c6b6697dc00a04f7ef746a3b0edef60ff2dd/Programmers/021.%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md) | Solved Date: 2026-05-04-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
+
+<!-- 
+
 
 * [022. 두 정수 사이의 합] 
 * [023. 콜라츠 추측]
