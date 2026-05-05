@@ -1,4 +1,4 @@
-# CodeKata
+# Code Kata
 
 About Code Kata
 
