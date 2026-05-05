@@ -23,7 +23,7 @@ Solved Date: 2026-05-DD-day
 
 
 ---
-### 정답 소스 코드
+## 정답 소스 코드
 ```cpp
 
 
@@ -32,5 +32,5 @@ Solved Date: 2026-05-DD-day
 
 ---
 
-Comments:
+## Comments:
 

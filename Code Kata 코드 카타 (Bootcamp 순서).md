@@ -64,11 +64,13 @@ Problem order is based on the bootcamp's issued order.
 
 * [021. 하샤드 수](https://github.com/devcol-main/CodeKata/blob/4043c6b6697dc00a04f7ef746a3b0edef60ff2dd/Programmers/021.%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md) | Solved Date: 2026-05-04-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12947)
 
+* [022. 두 정수 사이의 합](https://github.com/devcol-main/CodeKata/blob/fd9024612f9176a14acb7e83561550fb4da10da4/Programmers/022.%20%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md) | Solved Date: 2026-05-05-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12912)
+
+* [023. 콜라츠 추측](https://github.com/devcol-main/CodeKata/blob/d31e982e45c0ed40b183c01e666f9991a74c59f0/Programmers/023.%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md) | Solved Date: 2026-05-05-Tue |[Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12943)
+
+
 <!-- 
 
-
-* [022. 두 정수 사이의 합] 
-* [023. 콜라츠 추측]
 * [024. 서울에서 김서방 찾기]
 * [025. 나누어 떨어지는 숫자]
 --> 
