@@ -13,7 +13,7 @@
 -->
 
 <!-- 
-
+<br>
 --> 
 
 ## Table of Contents
@@ -22,9 +22,17 @@
 ## C++ (From [프로그래머스](https://programmers.co.kr/))
 
 Problem order is based on the bootcamp's issued order.
+
+* [029. 제일 작은 수 제거하기](https://github.com/devcol-main/CodeKata/blob/d68d4e203965eca03306c2c579363ac98204c712/Programmers/029.%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-07-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
+
+* [028. 없는 숫자 더하기](https://github.com/devcol-main/CodeKata/blob/b8db95682d2fb8569cff06b350660ac13afed9c0/Programmers/028.%20%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-07-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+
+* [027. 핸드폰 번호 가리기](https://github.com/devcol-main/CodeKata/blob/98597048ad11559c7a9559ff87bb7ed04e242384/Programmers/027.%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md) | Solved Date: 2026-05-07-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
+
+
 * [026. 음양 더하기](https://github.com/devcol-main/CodeKata/blob/ae1a4bea05a276f6964591756f4308bf376784ba/Programmers/026.%20%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-06-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 
-* [025. 나누어 떨어지는 숫자](https://github.com/devcol-main/CodeKata/blob/b6840f24853a8d1da7a9906d54bfdd871f674325/Programmers/025.%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.md) | Solved Date: 2026-05-06-Wed | [Problem Link] https://school.programmers.co.kr/learn/courses/30/lessons/12910)
+* [025. 나누어 떨어지는 숫자](https://github.com/devcol-main/CodeKata/blob/b6840f24853a8d1da7a9906d54bfdd871f674325/Programmers/025.%20%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.md) | Solved Date: 2026-05-06-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
 
 * [024. 서울에서 김서방 찾기](https://github.com/devcol-main/CodeKata/blob/b6840f24853a8d1da7a9906d54bfdd871f674325/Programmers/024.%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.md) | Solved Date: 2026-05-06-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12919)
 
