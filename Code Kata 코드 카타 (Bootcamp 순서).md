@@ -3,16 +3,8 @@
 
 > (코드 문제뱅크 사이트) 프로그래머스: https://programmers.co.kr/
 
-<!--- 
-	As of 4/28
-	다시 풀어볼 문제들: 12,13 (개인적으로 문자열로도 구하는 법 생각해보기)
-	
-	5/1
-	* 16, 17,
-	
--->
-
 <!-- 
+?language=cpp
 <br>
 --> 
 
@@ -22,6 +14,14 @@
 ## C++ (From [프로그래머스](https://programmers.co.kr/))
 
 Problem order is based on the bootcamp's issued order.
+
+* [033. 약수의 개수와 덧셈](https://github.com/devcol-main/CodeKata/blob/d96ff972a4c223b1a281e1a6493859ced9ca3bb8/Programmers/033.%20%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.md) | Solved Date: 2026-05-08-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
+
+* [032. 내적](https://github.com/devcol-main/CodeKata/blob/aeec7d39507bf9e103bb1540b0f8e0130499c04a/Programmers/032.%20%EB%82%B4%EC%A0%81.md) | Solved Date: 2026-05-08-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
+
+* [031. 수박수박수박수박수박수](https://github.com/devcol-main/CodeKata/blob/939f7557b5b5a88421ffdbf522e708232c302e9b/Programmers/031.%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.md) | Solved Date: 2026-05-08-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
+
+* [030. 가운데 글자 가져오기](https://github.com/devcol-main/CodeKata/blob/02587770499164c1a77e8111817e8ae47488f6c6/Programmers/030.%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md) | Solved Date: 2026-05-08-Fri |[Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12903) 
 
 * [029. 제일 작은 수 제거하기](https://github.com/devcol-main/CodeKata/blob/d68d4e203965eca03306c2c579363ac98204c712/Programmers/029.%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-07-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
 
