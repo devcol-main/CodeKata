@@ -3,9 +3,7 @@
 [Problem Link]()
 
 <!--
-
 ?language=cpp
-
 -->
 
 ---
