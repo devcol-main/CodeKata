@@ -15,6 +15,22 @@
 
 Problem order is based on the bootcamp's issued order.
 
+<!-- 
+* [038. 직사각형 별찍기]
+* [039. 최대공약수와 최소공배수]
+* [040. 3진법 뒤집기]
+* [041. 이상한 문자 만들기]
+-->
+
+* [037. 행렬의 덧셈](https://github.com/devcol-main/CodeKata/blob/64771705b54a4ad732da34776e5e6a0b3914e145/Programmers/037.%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)| Solved Date: 2026-05-09-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp)
+
+* [036. 문자열 다루기 기본](https://github.com/devcol-main/CodeKata/blob/1767aa53cb4bdb38aa86ec6db62463d6597db324/Programmers/036.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.md) | Solved Date: 2026-05-09-Sat |
+[Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=cpp)
+
+* [035. 부족한 금액 계산하기](https://github.com/devcol-main/CodeKata/blob/a5bd4c669f69c67291658b9a9d5e3916b20f17ab/Programmers/035.%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-09-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=cpp)
+
+* [034. 문자열 내림차순으로 배치하기](https://github.com/devcol-main/CodeKata/blob/fd0ae2f20f235f23ec4d186932ce6d45b4c7036c/Programmers/034.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-09-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=cpp)
+
 * [033. 약수의 개수와 덧셈](https://github.com/devcol-main/CodeKata/blob/d96ff972a4c223b1a281e1a6493859ced9ca3bb8/Programmers/033.%20%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.md) | Solved Date: 2026-05-08-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
 
 * [032. 내적](https://github.com/devcol-main/CodeKata/blob/aeec7d39507bf9e103bb1540b0f8e0130499c04a/Programmers/032.%20%EB%82%B4%EC%A0%81.md) | Solved Date: 2026-05-08-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
