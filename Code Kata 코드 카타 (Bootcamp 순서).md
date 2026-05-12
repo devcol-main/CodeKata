@@ -1,11 +1,26 @@
 
-코드카타란 (Code Kata)
+코드 카타란 (Code Kata)
 
 > (코드 문제뱅크 사이트) 프로그래머스: https://programmers.co.kr/
 
 <!-- 
+
 ?language=cpp
+
 <br>
+
+* 2,8,16 진법
+* 비트연산
+* vector<map>
+* vector<vector<int>>
+
+* * \#include \<numeric\> 추가 // gcd(), lcm() 사용을 위해서
+* gdc( ) // 최대공약수 (Greatest Common Divisor, GCD)
+* lcm( ) // 최소공배수 (Least Common Multiple, LCM)
+
+
+* 몇몇 문제들 다시 풀기*
+* 41, 37, 36,40
 --> 
 
 ## Table of Contents
@@ -16,11 +31,18 @@
 Problem order is based on the bootcamp's issued order.
 
 <!-- 
-* [038. 직사각형 별찍기]
-* [039. 최대공약수와 최소공배수]
-* [040. 3진법 뒤집기]
-* [041. 이상한 문자 만들기]
+
+
 -->
+
+* [041. 이상한 문자 만들기](https://github.com/devcol-main/CodeKata/blob/d81cab94c896d95ab83a9c334158ce96171843de/Programmers/041.%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-05-12-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp)
+
+* [040. 3진법 뒤집기](https://github.com/devcol-main/CodeKata/blob/3332943e8e67d424acaf02320872110644db067e/Programmers/040.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=cpp)
+=
+
+* [039. 최대공약수와 최소공배수](https://github.com/devcol-main/CodeKata/blob/3756da73c04107b6c0de00d6667438b94cbb53be/Programmers/039.%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp)
+
+* [038. 직사각형 별찍기]() | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=cpp)
 
 * [037. 행렬의 덧셈](https://github.com/devcol-main/CodeKata/blob/64771705b54a4ad732da34776e5e6a0b3914e145/Programmers/037.%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)| Solved Date: 2026-05-09-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp)
 
