@@ -37,8 +37,8 @@ Problem order is based on the bootcamp's issued order.
 
 * [041. 이상한 문자 만들기](https://github.com/devcol-main/CodeKata/blob/d81cab94c896d95ab83a9c334158ce96171843de/Programmers/041.%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-05-12-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp)
 
-* [040. 3진법 뒤집기](https://github.com/devcol-main/CodeKata/blob/3332943e8e67d424acaf02320872110644db067e/Programmers/040.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=cpp)
-=
+* [040. 3진법 뒤집기](https://github.com/devcol-main/CodeKata/blob/3332943e8e67d424acaf02320872110644db067e/Programmers/040.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) | Solved Date: 2026-05-11-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=cpp)
+
 
 * [039. 최대공약수와 최소공배수](https://github.com/devcol-main/CodeKata/blob/3756da73c04107b6c0de00d6667438b94cbb53be/Programmers/039.%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp)
 
