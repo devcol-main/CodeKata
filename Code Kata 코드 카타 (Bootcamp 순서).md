@@ -35,6 +35,8 @@ Problem order is based on the bootcamp's issued order.
 
 -->
 
+* [042. 삼총사](https://github.com/devcol-main/CodeKata/blob/374d13ec55646809f18805a3c83235885ea5ab28/Programmers/042.%20%EC%82%BC%EC%B4%9D%EC%82%AC.md)| Solved Date: 2026-05-14-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=cpp)
+
 * [041. 이상한 문자 만들기](https://github.com/devcol-main/CodeKata/blob/d81cab94c896d95ab83a9c334158ce96171843de/Programmers/041.%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-05-12-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=cpp)
 
 * [040. 3진법 뒤집기](https://github.com/devcol-main/CodeKata/blob/3332943e8e67d424acaf02320872110644db067e/Programmers/040.%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md) | Solved Date: 2026-05-11-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=cpp)
