@@ -20,7 +20,7 @@
 
 
 * 몇몇 문제들 다시 풀기*
-* 41, 37, 36,40, 42
+* 41, 37, 36,40, 42, 43
 --> 
 
 ## Table of Contents
@@ -34,6 +34,9 @@ Problem order is based on the bootcamp's issued order.
 
 
 -->
+* [044. 최소직사각형](https://github.com/devcol-main/CodeKata/blob/6821e5f5edd9958e64cd198e333583143be4674d/Programmers/044.%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md) | Solved Date: 2026-05-14-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp)
+
+* [043. 크기가 작은 부분문자열](https://github.com/devcol-main/CodeKata/blob/0b14d4c3891165ba13ac9baf7d398ca4247ea737/Programmers/043.%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.md) | Solved Date: 2026-05-14-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=cpp)
 
 * [042. 삼총사](https://github.com/devcol-main/CodeKata/blob/374d13ec55646809f18805a3c83235885ea5ab28/Programmers/042.%20%EC%82%BC%EC%B4%9D%EC%82%AC.md)| Solved Date: 2026-05-14-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=cpp)
 
