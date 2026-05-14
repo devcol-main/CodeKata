@@ -4,11 +4,9 @@
 > (코드 문제뱅크 사이트) 프로그래머스: https://programmers.co.kr/
 
 <!-- 
-
 ?language=cpp
 
 <br>
-
 * 2,8,16 진법
 * 비트연산
 * vector<map>
@@ -17,8 +15,6 @@
 * * \#include \<numeric\> 추가 // gcd(), lcm() 사용을 위해서
 * gdc( ) // 최대공약수 (Greatest Common Divisor, GCD)
 * lcm( ) // 최소공배수 (Least Common Multiple, LCM)
-
-
 * 몇몇 문제들 다시 풀기*
 * 41, 37, 36,40, 42, 43
 --> 
@@ -31,7 +27,6 @@
 Problem order is based on the bootcamp's issued order.
 
 <!-- 
-
 
 -->
 * [044. 최소직사각형](https://github.com/devcol-main/CodeKata/blob/6821e5f5edd9958e64cd198e333583143be4674d/Programmers/044.%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md) | Solved Date: 2026-05-14-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp)
@@ -47,7 +42,7 @@ Problem order is based on the bootcamp's issued order.
 
 * [039. 최대공약수와 최소공배수](https://github.com/devcol-main/CodeKata/blob/3756da73c04107b6c0de00d6667438b94cbb53be/Programmers/039.%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=cpp)
 
-* [038. 직사각형 별찍기]() | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=cpp)
+* [038. 직사각형 별찍기](https://github.com/devcol-main/CodeKata/blob/6821e5f5edd9958e64cd198e333583143be4674d/Programmers/038.%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md) | Solved Date: 2026-05-10-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=cpp)
 
 * [037. 행렬의 덧셈](https://github.com/devcol-main/CodeKata/blob/64771705b54a4ad732da34776e5e6a0b3914e145/Programmers/037.%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.md)| Solved Date: 2026-05-09-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=cpp)
 
@@ -127,13 +122,3 @@ Problem order is based on the bootcamp's issued order.
 * [002.두 수의 차 구하기](https://github.com/devcol-main/CodeKata/blob/a37ad88b1c8a3e8427dc9041111af822d87603fc/Programmers/002.%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8%20%EA%B5%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-04-22-Wed |  [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120803)
 
 * [001.두 수의 곱 구하기](https://github.com/devcol-main/CodeKata/blob/a37ad88b1c8a3e8427dc9041111af822d87603fc/Programmers/001.%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)) | Solved Date: 2026-04-22-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/120804)
-
-
-
-
-
-
-<!-- 
-
-
---> 
