@@ -19,11 +19,6 @@
 * 41, 37, 36,40, 42, 43, 45, 46, 47
 
 
-* [045. 시저 암호](https://github.com/devcol-main/CodeKata/blob/793f1b30fe7e3223ca58846dda5af153b5353444/Programmers/045.%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.md)
-
-* [046. 숫자 문자열과 영단어](https://github.com/devcol-main/CodeKata/blob/793f1b30fe7e3223ca58846dda5af153b5353444/Programmers/046.%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md)
-
-* [047. 문자열 내 마음대로 정렬하기]
 --> 
 
 ## Table of Contents
@@ -37,6 +32,11 @@ Problem order is based on the bootcamp's issued order.
 
 -->
 
+* [047. 문자열 내 마음대로 정렬하기](https://github.com/devcol-main/CodeKata/blob/a190ba651d35bb6b032c4837df859a120e4614ca/Programmers/047.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-26-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=cpp)
+
+* [046. 숫자 문자열과 영단어](https://github.com/devcol-main/CodeKata/blob/793f1b30fe7e3223ca58846dda5af153b5353444/Programmers/046.%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md) | Solved Date: 2026-05-16-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=cpp)
+
+* [045. 시저 암호](https://github.com/devcol-main/CodeKata/blob/793f1b30fe7e3223ca58846dda5af153b5353444/Programmers/045.%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.md) | Solved Date: 2026-05-15-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=cpp)
 
 * [044. 최소직사각형](https://github.com/devcol-main/CodeKata/blob/6821e5f5edd9958e64cd198e333583143be4674d/Programmers/044.%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md) | Solved Date: 2026-05-14-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp)
 
