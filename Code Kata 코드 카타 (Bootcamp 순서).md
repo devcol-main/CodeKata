@@ -32,7 +32,9 @@ Problem order is based on the bootcamp's issued order.
 
 -->
 
-* [048. K번째수](https://github.com/devcol-main/CodeKata/blob/bc10e7aadc6af02e32d878c100b472921d56c92e/Programmers/048.%20K%EB%B2%88%EC%A7%B8%EC%88%98.md) | Solved Date: 2026-05-26-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=cpp)
+* [049. 두 개 뽑아서 더하기](https://github.com/devcol-main/CodeKata/blob/7e209c3195f4abfee6ceeb1ff20abd130064751c/Programmers/049.%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-27-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=cpp)
+
+* [048. K번째수](https://github.com/devcol-main/CodeKata/blob/bc10e7aadc6af02e32d878c100b472921d56c92e/Programmers/048.%20K%EB%B2%88%EC%A7%B8%EC%88%98.md) | Solved Date: 2026-05-27-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=cpp)
 
 * [047. 문자열 내 마음대로 정렬하기](https://github.com/devcol-main/CodeKata/blob/a190ba651d35bb6b032c4837df859a120e4614ca/Programmers/047.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-05-26-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=cpp)
 
