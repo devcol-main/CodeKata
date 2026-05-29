@@ -31,6 +31,9 @@ Problem order is based on the bootcamp's issued order.
 <!-- 
 
 -->
+
+* [052. 콜라 문제](https://github.com/devcol-main/CodeKata/blob/d3247f2539418efa78152743d465262216459004/Programmers/052.%20%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md) | Solved Date: 2026-05-29-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=cpp)
+
 * [051. 푸드 파이트 대회](https://github.com/devcol-main/CodeKata/blob/d45afd9de0a308801b4c2e763ed1cde452ce406e/Programmers/051.%20%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.md) | Solved Date: 2026-05-28-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=cpp)
 
 * [050. 가장 가까운 같은 글자](https://github.com/devcol-main/CodeKata/blob/c1b7e6670971929d9110a63fb2642136cbb954a6/Programmers/050.%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.md) | Solved Date: 2026-05-28-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=cpp)
