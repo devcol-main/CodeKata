@@ -16,7 +16,7 @@
 * gdc( ) // 최대공약수 (Greatest Common Divisor, GCD)
 * lcm( ) // 최소공배수 (Least Common Multiple, LCM)
 * 몇몇 문제들 다시 풀기*
-* 41, 37, 36,40, 42, 43, 45, 46, 47
+* 41, 37, 36,40, 42, 43, 45, 46, 47, 53
 
 
 --> 
@@ -31,6 +31,8 @@ Problem order is based on the bootcamp's issued order.
 <!-- 
 
 -->
+
+* [053. 명예의 전당 (1)](https://github.com/devcol-main/CodeKata/blob/10c787a6d5a0c995feced286c849704d8bb591e2/Programmers/053.%20%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1).md) | Solved Date: 2026-05-30-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=cpp)
 
 * [052. 콜라 문제](https://github.com/devcol-main/CodeKata/blob/d3247f2539418efa78152743d465262216459004/Programmers/052.%20%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md) | Solved Date: 2026-05-29-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=cpp)
 
