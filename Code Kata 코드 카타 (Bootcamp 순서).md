@@ -32,6 +32,8 @@ Problem order is based on the bootcamp's issued order.
 
 -->
 
+* [54. 2016](https://github.com/devcol-main/CodeKata/blob/8a64ea744173c95e6419c396e3b930dc03bab885/Programmers/054.%202016.md) | Solved Date: 2026-05-31-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)
+
 * [053. 명예의 전당 (1)](https://github.com/devcol-main/CodeKata/blob/10c787a6d5a0c995feced286c849704d8bb591e2/Programmers/053.%20%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1).md) | Solved Date: 2026-05-30-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=cpp)
 
 * [052. 콜라 문제](https://github.com/devcol-main/CodeKata/blob/d3247f2539418efa78152743d465262216459004/Programmers/052.%20%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.md) | Solved Date: 2026-05-29-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=cpp)
