@@ -1,4 +1,4 @@
-| Solved Date: 2026-05-2D-day |
+| Solved Date: 2026-06-1D-day |
 
 [Problem Link]()
 
