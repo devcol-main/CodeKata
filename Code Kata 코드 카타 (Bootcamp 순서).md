@@ -32,6 +32,8 @@ Problem order is based on the bootcamp's issued order.
 
 -->
 
+* [056. 과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=cpp) | Solved Date: 2026-06-1-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=cpp)
+
 * [055. 카드 뭉치](https://github.com/devcol-main/CodeKata/blob/7acf6a3643dae1120f7445dc75dde1e0069c62f2/Programmers/055.%20%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.md) | Solved Date: 2026-06-1-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=cpp)
 
 * [054. 2016](https://github.com/devcol-main/CodeKata/blob/8a64ea744173c95e6419c396e3b930dc03bab885/Programmers/054.%202016.md) | Solved Date: 2026-05-31-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)
