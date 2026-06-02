@@ -30,13 +30,13 @@
 
 Problem order is based on the bootcamp's issued order.
 
-* [058. 소수 만들기](https://github.com/devcol-main/CodeKata/blob/baf145cedec31e4dd142513e081aad3a859f37d6/Programmers/058.%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-06-2-Tue | Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=cpp)
+* [058. 소수 만들기](https://github.com/devcol-main/CodeKata/blob/baf145cedec31e4dd142513e081aad3a859f37d6/Programmers/058.%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-06-02-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=cpp)
 
-* [057. 모의고사 완전 탐색](https://github.com/devcol-main/CodeKata/blob/98935b8c51215940024352969cd574b03d984776/Programmers/057.%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89.md) | Solved Date: 2026-06-2-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp)
+* [057. 모의고사 완전 탐색](https://github.com/devcol-main/CodeKata/blob/98935b8c51215940024352969cd574b03d984776/Programmers/057.%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89.md) | Solved Date: 2026-06-02-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp)
 
-* [056. 과일 장수](https://github.com/devcol-main/CodeKata/blob/0cca4d1be9a2a5b8e4552830f5743315faef40f7/Programmers/056.%20%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) | Solved Date: 2026-06-1-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=cpp)
+* [056. 과일 장수](https://github.com/devcol-main/CodeKata/blob/0cca4d1be9a2a5b8e4552830f5743315faef40f7/Programmers/056.%20%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) | Solved Date: 2026-06-01-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=cpp)
 
-* [055. 카드 뭉치](https://github.com/devcol-main/CodeKata/blob/7acf6a3643dae1120f7445dc75dde1e0069c62f2/Programmers/055.%20%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.md) | Solved Date: 2026-06-1-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=cpp)
+* [055. 카드 뭉치](https://github.com/devcol-main/CodeKata/blob/7acf6a3643dae1120f7445dc75dde1e0069c62f2/Programmers/055.%20%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.md) | Solved Date: 2026-06-01-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=cpp)
 
 * [054. 2016](https://github.com/devcol-main/CodeKata/blob/8a64ea744173c95e6419c396e3b930dc03bab885/Programmers/054.%202016.md) | Solved Date: 2026-05-31-Sun | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)
 
