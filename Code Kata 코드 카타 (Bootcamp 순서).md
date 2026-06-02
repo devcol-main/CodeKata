@@ -15,8 +15,10 @@
 * * \#include \<numeric\> 추가 // gcd(), lcm() 사용을 위해서
 * gdc( ) // 최대공약수 (Greatest Common Divisor, GCD)
 * lcm( ) // 최소공배수 (Least Common Multiple, LCM)
+* 소수 구하는 방법*
 * 몇몇 문제들 다시 풀기*
-* 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55
+* 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, [56, 57 (이렇게 깔끔하게 해보자)
+* 58
 
 
 --> 
@@ -28,9 +30,9 @@
 
 Problem order is based on the bootcamp's issued order.
 
-<!-- 
+* [058. 소수 만들기](https://github.com/devcol-main/CodeKata/blob/baf145cedec31e4dd142513e081aad3a859f37d6/Programmers/058.%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-06-2-Tue | Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=cpp)
 
--->
+* [057. 모의고사 완전 탐색](https://github.com/devcol-main/CodeKata/blob/98935b8c51215940024352969cd574b03d984776/Programmers/057.%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89.md) | Solved Date: 2026-06-2-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=cpp)
 
 * [056. 과일 장수](https://github.com/devcol-main/CodeKata/blob/0cca4d1be9a2a5b8e4552830f5743315faef40f7/Programmers/056.%20%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.md) | Solved Date: 2026-06-1-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/135808?language=cpp)
 
