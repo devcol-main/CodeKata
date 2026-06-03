@@ -9,16 +9,16 @@
 <br>
 * 2,8,16 진법
 * 비트연산
-* vector<map>
+* * vector<map>
 * vector<vector<int>>
 
 * * \#include \<numeric\> 추가 // gcd(), lcm() 사용을 위해서
 * gdc( ) // 최대공약수 (Greatest Common Divisor, GCD)
 * lcm( ) // 최소공배수 (Least Common Multiple, LCM)
-* 소수 구하는 방법*
-* 몇몇 문제들 다시 풀기*
+* 소수 구하는 방법, 약수 구하는 방법
+
 * 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, [56, 57 (이렇게 깔끔하게 해보자)
-* 58, 59
+* 58, 59. 60 (약수 문제)
 
 
 --> 
