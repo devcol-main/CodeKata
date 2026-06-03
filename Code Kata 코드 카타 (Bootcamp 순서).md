@@ -18,7 +18,7 @@
 * 소수 구하는 방법*
 * 몇몇 문제들 다시 풀기*
 * 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, [56, 57 (이렇게 깔끔하게 해보자)
-* 58
+* 58, 59
 
 
 --> 
@@ -29,6 +29,10 @@
 ## C++ (From [프로그래머스](https://programmers.co.kr/))
 
 Problem order is based on the bootcamp's issued order.
+
+* [060. 기사단원의 무기](https://github.com/devcol-main/CodeKata/blob/faa22f68627be4c33a21ae761761aef272fc9c96/Programmers/060.%20%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.md) | Solved Date: 2026-06-03-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=cpp)
+
+* [059. 덧칠하기](https://github.com/devcol-main/CodeKata/blob/d370338806a5811fc49a8055f990ecc377dbf711/Programmers/059.%20%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-06-03-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=cpp)
 
 * [058. 소수 만들기](https://github.com/devcol-main/CodeKata/blob/baf145cedec31e4dd142513e081aad3a859f37d6/Programmers/058.%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-06-02-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=cpp)
 

@@ -1,6 +1,4 @@
-| Solved Date: 2026-06-1D-day |
-
-[Problem Link]()
+| Solved Date: 2026-06-0D-day | [Problem Link]()
 
 <!--
 ?language=cpp
