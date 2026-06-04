@@ -32,7 +32,7 @@
 
 Problem order is based on the bootcamp's issued order.
 
-* [061. 로또의 최고 순위와 최저 순위]()| Solved Date: 2026-06-04-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp)
+* [061. 로또의 최고 순위와 최저 순위](https://github.com/devcol-main/CodeKata/blob/b75bcc7b97453a20a319f7ffeb429dbade784bc5/Programmers/061.%20%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.md)| Solved Date: 2026-06-04-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp)
 
 * [060. 기사단원의 무기](https://github.com/devcol-main/CodeKata/blob/faa22f68627be4c33a21ae761761aef272fc9c96/Programmers/060.%20%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.md) | Solved Date: 2026-06-03-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/136798?language=cpp)
 
