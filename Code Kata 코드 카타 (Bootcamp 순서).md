@@ -17,8 +17,9 @@
 * lcm( ) // 최소공배수 (Least Common Multiple, LCM)
 * 소수 구하는 방법, 약수 구하는 방법
 
-* 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, 
+* 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, 62
 * 58, 59. 60 (약수 문제)
+* 문자열 : 62
 
 * 풀었지만 깔끔하게 다시 풀길 원하는거: 56,57,61
 
@@ -31,6 +32,9 @@
 ## C++ (From [프로그래머스](https://programmers.co.kr/))
 
 Problem order is based on the bootcamp's issued order.
+
+
+* [062. 옹알이 (2)](https://github.com/devcol-main/CodeKata/blob/11d1fa8afecb1509844daf733b8cfaa9efe660fb/Programmers/062.%20%EC%98%B9%EC%95%8C%EC%9D%B4%20(2).md) | Solved Date: 2026-06-05-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=cpp)
 
 * [061. 로또의 최고 순위와 최저 순위](https://github.com/devcol-main/CodeKata/blob/b75bcc7b97453a20a319f7ffeb429dbade784bc5/Programmers/061.%20%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.md)| Solved Date: 2026-06-04-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp)
 
