@@ -19,7 +19,7 @@
 
 
 * 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, 62
-* 58, 59. 60 (약수 문제),  63
+* 58, 59. 60 (약수 문제),  63, 64
 * 문자열 : 62
 
 * 풀었지만 깔끔하게 다시 풀길 원하는거: 56,57,61
@@ -34,7 +34,9 @@
 
 Problem order is based on the bootcamp's issued order.
 
-* [063. 숫자 짝꿍](https://github.com/devcol-main/CodeKata/blob/7e9874fe645ae96a4c91ff63a67f0c2fb61a23a9/Programmers/063.%20%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.md)| Solved Date: 2026-06-06-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=cpp)
+* [064. 체육복](https://github.com/devcol-main/CodeKata/blob/08d61a5a94ba362de512e0f3af44f1c9e28c3add/Programmers/064.%20%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) | Solved Date: 2026-06-08-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp)
+
+* [063. 숫자 짝꿍](https://github.com/devcol-main/CodeKata/blob/7e9874fe645ae96a4c91ff63a67f0c2fb61a23a9/Programmers/063.%20%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.md) | Solved Date: 2026-06-06-Sat | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/131128?language=cpp)
 
 * [062. 옹알이 (2)](https://github.com/devcol-main/CodeKata/blob/11d1fa8afecb1509844daf733b8cfaa9efe660fb/Programmers/062.%20%EC%98%B9%EC%95%8C%EC%9D%B4%20(2).md) | Solved Date: 2026-06-05-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/133499?language=cpp)
 
