@@ -19,7 +19,7 @@
 
 
 * 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, 62
-* 58, 59. 60 (약수 문제),  63, 64
+* 58, 59. 60 (약수 문제),  63, 64, 65
 * 문자열 : 62
 
 * 풀었지만 깔끔하게 다시 풀길 원하는거: 56,57,61
@@ -33,6 +33,8 @@
 ## C++ (From [프로그래머스](https://programmers.co.kr/))
 
 Problem order is based on the bootcamp's issued order.
+
+* [065. 문자열 나누기](https://github.com/devcol-main/CodeKata/blob/af129146dee9ac850635fb1922c43d2c06dc6773/Programmers/065.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.md)  | Solved Date: 2026-06-09-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=cpp)
 
 * [064. 체육복](https://github.com/devcol-main/CodeKata/blob/08d61a5a94ba362de512e0f3af44f1c9e28c3add/Programmers/064.%20%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) | Solved Date: 2026-06-08-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp)
 
