@@ -34,6 +34,8 @@
 
 Problem order is based on the bootcamp's issued order.
 
+* [066. 대충 만든 자판](https://github.com/devcol-main/CodeKata/blob/31fd7fcd88b3a3d03bcca3b3d9218bed777731f9/Programmers/066.%20%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.md) | Solved Date: 2026-06-10-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=cpp)
+
 * [065. 문자열 나누기](https://github.com/devcol-main/CodeKata/blob/af129146dee9ac850635fb1922c43d2c06dc6773/Programmers/065.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.md)  | Solved Date: 2026-06-09-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=cpp)
 
 * [064. 체육복](https://github.com/devcol-main/CodeKata/blob/08d61a5a94ba362de512e0f3af44f1c9e28c3add/Programmers/064.%20%EC%B2%B4%EC%9C%A1%EB%B3%B5.md) | Solved Date: 2026-06-08-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=cpp)
