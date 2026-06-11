@@ -34,6 +34,8 @@
 
 Problem order is based on the bootcamp's issued order.
 
+* [067. 둘만의 암호](https://github.com/devcol-main/CodeKata/blob/455afb31f97c399b772ad546584bc1013af901d9/Programmers/067.%20%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.md) | Solved Date: 2026-06-11-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=cpp)
+
 * [066. 대충 만든 자판](https://github.com/devcol-main/CodeKata/blob/31fd7fcd88b3a3d03bcca3b3d9218bed777731f9/Programmers/066.%20%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.md) | Solved Date: 2026-06-10-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/160586?language=cpp)
 
 * [065. 문자열 나누기](https://github.com/devcol-main/CodeKata/blob/af129146dee9ac850635fb1922c43d2c06dc6773/Programmers/065.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.md)  | Solved Date: 2026-06-09-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=cpp)
