@@ -19,7 +19,7 @@
 
 
 * 41, 37, 36,40, 42, 43, 45, 46, 47, 53, 55, 62
-* 58, 59. 60 (약수 문제),  63, 64, 65, 67 (unorderedmap), 68
+* 58, 59. 60 (약수 문제),  63, 64, 65, 67 (unorderedmap), 68,69
 * 문자열 : 62
 
 * 풀었지만 깔끔하게 다시 풀길 원하는거: 56,57,61, 68
@@ -34,6 +34,7 @@
 
 Problem order is based on the bootcamp's issued order.
 
+* [069. 성격 유형 검사하기](https://github.com/devcol-main/CodeKata/blob/5116a010fad1148cb5a4f545bddece92720c113a/Programmers/069.%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-06-18-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=cpp)
 
 * [068. 햄버거 만들기](https://github.com/devcol-main/CodeKata/blob/23cafdd39fd6deadfe200ff9cd956cb46fa98fd4/Programmers/068.%20%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-06-17-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/133502?language=cpp)
 
