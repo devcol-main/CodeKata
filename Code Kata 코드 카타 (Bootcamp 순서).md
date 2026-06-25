@@ -36,6 +36,8 @@ Problem order is based on the bootcamp's issued order.
 
 
 
+* [074. 신고 결과 받기](https://github.com/devcol-main/CodeKata/blob/a4b95003fce649d7fabbc676cf67b0cd8eb7b852/Programmers/074.%20%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.md) | Solved Date: 2026-06-24-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=cpp)
+
 * [073. 공원산책](https://github.com/devcol-main/CodeKata/blob/3c53a6c63fce0d176f129e47dc53266de8a24e0d/Programmers/073.%20%EA%B3%B5%EC%9B%90%EC%82%B0%EC%B1%85.md) | Solved Date: 2026-06-23-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/172928?language=cpp)
 
 
