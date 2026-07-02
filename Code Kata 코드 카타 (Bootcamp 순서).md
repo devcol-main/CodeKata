@@ -34,6 +34,8 @@
 
 Problem order is based on the bootcamp's issued order.
 
+* [077. 이진 변환 반복하기](https://github.com/devcol-main/CodeKata/blob/16bffd7c226c039d7e94678d59a26460aad0eb93/Programmers/077.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md)| Solved Date: 2026-07-02-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=cpp)
+
 * [076. JadenCase 문자열 만들기](https://github.com/devcol-main/CodeKata/blob/500d9e02fa277eda45f981bb5cc0a1dd76645404/Programmers/076.%20JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) | Solved Date: 2026-06-26-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=cpp)
 
 * [075. 최댓값과 최소값](https://github.com/devcol-main/CodeKata/blob/22d74a17abfc5c37dcd08a13776deac1b727eade/Programmers/075.%20%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%8C%EA%B0%92.md) | Solved Date: 2026-06-25-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=cpp)
