@@ -34,6 +34,8 @@
 
 Problem order is based on the bootcamp's issued order.
 
+* [084. 괄호 회전하기](https://github.com/devcol-main/CodeKata/blob/1a2dd7d1e03816095a78efe92bb5cf3096ca1c6d/Programmers/084.%20%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.md) | Solved Date: 2026-07-13-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=cpp)
+
 * [083. 귤 고르기](https://github.com/devcol-main/CodeKata/blob/50422ac583c860e0029f88906a8460c123c0e206/Programmers/083.%20%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.md) | Solved Date: 2026-07-10-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=cpp)
 
 
