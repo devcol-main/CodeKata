@@ -34,6 +34,17 @@
 
 Problem order is based on the bootcamp's issued order.
 
+* [083. 귤 고르기](https://github.com/devcol-main/CodeKata/blob/50422ac583c860e0029f88906a8460c123c0e206/Programmers/083.%20%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.md) | Solved Date: 2026-07-10-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=cpp)
+
+
+* [082. 멀리 뛰기](https://github.com/devcol-main/CodeKata/blob/57bd76d56679c8f8f6cfd259599eba8f049603c5/Programmers/082.%20%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.md) | Solved Date: 2026-07-09-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=cpp)
+
+* [081. N개의 최소공배수](https://github.com/devcol-main/CodeKata/blob/95a07ec76ef2325cf79af2600f193a3e07416278/Programmers/081.%20N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md) | Solved Date: 2026-07-08-Wed | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=cpp)
+
+* [080. 예상 대진표](https://github.com/devcol-main/CodeKata/blob/8180a75af82ac77d22dcb703451a952ba69dfd6c/Programmers/080.%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.md) | Solved Date: 2026-07-07-Tue | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=cpp)
+
+* [079. 카펫](https://github.com/devcol-main/CodeKata/blob/76de613afd33b0fce1ee361f3b0061d479a25616/Programmers/079.%20%EC%B9%B4%ED%8E%AB.md) | Solved Date: 2026-07-06-Mon | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=cpp)
+
 * [078. 피보나치 수](https://github.com/devcol-main/CodeKata/blob/a3fc970256ce6406d1a7972ca67390e338de06a0/Programmers/078.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.md) | Solved Date: 2026-07-03-Fri | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=cpp)
 
 * [077. 이진 변환 반복하기](https://github.com/devcol-main/CodeKata/blob/16bffd7c226c039d7e94678d59a26460aad0eb93/Programmers/077.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md)| Solved Date: 2026-07-02-Thur | [Problem Link](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=cpp)
